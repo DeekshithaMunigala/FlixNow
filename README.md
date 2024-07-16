@@ -10,9 +10,6 @@ This is a Netflix clone project created as part of a learning exercise. It mimic
 -  FAQ Section: Frequently asked questions about Netflix are displayed in an accordion format for easy navigation.
 -  Footer: The footer contains links to various sections such as FAQ, Investor Relations, Privacy, and more. It also includes language selection and contact information.
 
-## Deployment
-You can check the website live here [FlixNow](https://flix-now.vercel.app/)
-
 ## Technologies Used
 - HTML
 - CSS
